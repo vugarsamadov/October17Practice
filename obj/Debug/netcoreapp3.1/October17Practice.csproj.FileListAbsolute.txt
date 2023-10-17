@@ -1,0 +1,13 @@
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\bin\Debug\netcoreapp3.1\October17Practice.exe
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\bin\Debug\netcoreapp3.1\October17Practice.deps.json
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\bin\Debug\netcoreapp3.1\October17Practice.runtimeconfig.json
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\bin\Debug\netcoreapp3.1\October17Practice.runtimeconfig.dev.json
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\bin\Debug\netcoreapp3.1\October17Practice.dll
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\bin\Debug\netcoreapp3.1\October17Practice.pdb
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\obj\Debug\netcoreapp3.1\October17Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\obj\Debug\netcoreapp3.1\October17Practice.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\obj\Debug\netcoreapp3.1\October17Practice.AssemblyInfo.cs
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\obj\Debug\netcoreapp3.1\October17Practice.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\obj\Debug\netcoreapp3.1\October17Practice.dll
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\obj\Debug\netcoreapp3.1\October17Practice.pdb
+C:\Users\Birinci Novbe\source\repos\October17Practice\October17Practice\obj\Debug\netcoreapp3.1\October17Practice.genruntimeconfig.cache
